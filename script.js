@@ -47,7 +47,7 @@ document.getElementById("sim").onclick=function(){
 
 /* ENVIA RESPOSTA PARA VOCÊ */
 
-fetch("https://formspree.io/f/SEU_ID_AQUI",{
+fetch("https://formspree.io/f/mkoqzezb",{
 method:"POST",
 headers:{
 "Content-Type":"application/json"
